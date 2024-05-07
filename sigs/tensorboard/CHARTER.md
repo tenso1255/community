@@ -19,8 +19,7 @@ Archives of the mailing list will be publicly accessible.
 
 ## Contacts
 * Project leads: 
-    * Mani Varadarajan [@maniv](https://github.com/manivaradarajan) - maniv at google
-    * Nick Felt [@nfelt](https://github.com/nfelt) - nickfelt at google
+    * Adrian Revuleta [@arcra](https://github.com/arcra) - adrianrc at google
     * Stan Bileschi [@bileschi](https://github.com/bileschi) - bileschi at google
 * For administrative questions, contact Edd Wilder-James [@ewilderj](https://github.com/ewilderj) - ewj at google
 
